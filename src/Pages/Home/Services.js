@@ -29,7 +29,7 @@ const Services = () => {
     return (
         <div className='text-center py-26 '>
             <div className='mb-16'>
-                <h3 className='text-xl text-primary uppercase'>Our services</h3>
+                <h3 className='text-xl text-primary uppercase my-4'>Our services</h3>
                 <h2 className='text-4xl'>Services We Provide</h2>
             </div>
             <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 mb-16'>
